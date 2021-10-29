@@ -1,0 +1,33 @@
+
+{%extends 'index.html'%}
+<!-- 
+    待添加功能：
+    关键词内容tags文本
+    思路：
+    1. 根据检索文本内容文件名获取文本
+    2. 使用jieba分词获取关键词
+    done.
+
+    过滤标题相同的网页
+    增加效果的有效性
+    
+ -->
+
+{%block body%}
+    <hr />
+    {% if resData | length>0 %}
+        <p>There are {{ resData | length }} results</p>
+
+        <h2>Search result for "{{ keyword }}"</h2>
+        <div>
+        {% for res in resData %}
+            <h3 class="title"><a href="{{ res['url'] }}">{{res['title']}}</a></h3>
+            <p class="tags">{{res.tags | safe }}</p>
+            <p class="url">{{res.url}}</p>
+        {% endfor %}
+        </div>
+    {% else %}
+        <p>There are no result</p>
+    {% endif %}
+    <a href="{{ url_for('index') }}">&larr; Return</a>
+{%endblock%}

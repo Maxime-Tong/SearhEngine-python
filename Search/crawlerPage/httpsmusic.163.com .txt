@@ -1,0 +1,2421 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+网易云音乐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+网易云音乐
+
+
+发现音乐 
+
+
+我的音乐 
+
+
+朋友 
+
+
+商城
+
+
+音乐人
+
+
+下载客户端  
+
+
+
+创作者中心
+
+
+
+
+音乐/视频/电台/用户
+
+
+现在支持搜索MV啦~
+ 
+
+
+
+
+
+
+
+
+推荐
+排行榜
+歌单
+主播电台
+歌手
+新碟上架
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+上一首
+播放/暂停
+下一首
+
+
+
+
+
+
+
+
+
+00:00 / 00:00
+
+
+
+收藏
+分享
+
+
+
+
+
+
+
+
+
+
+已添加到播放列表
+0
+
+
+
+
+
+
+ 
+{if degrade}
+
+
+
+
+
+手机号登录
+
+
+注　册
+
+
+
+
+微信登录
+QQ登录
+微博登录
+网易邮箱帐号登录
+
+
+
+
+同意
+《服务条款》
+《隐私政策》
+《儿童隐私政策》
+
+
+
+{else}
+
+
+
+
+
+手机号登录
+
+
+注　册
+
+
+
+
+微信登录
+QQ登录
+微博登录
+网易邮箱帐号登录
+
+
+
+
+同意
+《服务条款》
+《隐私政策》
+《儿童隐私政策》
+
+
+
+
+
+
+
+
+
+
+扫码登录
+
+
+二维码已失效
+点击刷新
+
+
+
+使用 网易云音乐APP 扫码登录
+
+
+
+
+
+扫描成功
+
+请在手机上确认登录
+
+选择其他登录模式
+
+
+
+{/if}
+
+
+
+
+
+
+
+忘记密码？
+
+
+
+
+短信登录
+自动登录
+
+
+
+
+
+
+获取验证码
+
+
+
+密码登录
+自动登录
+
+
+
+
+登　录
+
+
+
+<  其他登录方式
+没有帐号？免费注册  >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+自动登录
+忘记密码？
+
+
+登　录
+
+
+<  其他登录方式
+
+
+{list suggests as item}
+${item|escape}
+{/list}
+
+
+
+手机号：
+
+密码：
+
+
+
+
+
+密码不能包含空格
+包含字母、数字、符号中至少两种
+密码长度为8-20位
+
+
+下一步
+
+
+<  返回登录
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，请绑定手机号，以免后续无法使用该帐号
+
+你的手机号：+ 
+为了安全，我们会给你发送短信验证码
+
+
+
+
+验证码：
+
+
+
+
+
+
+
+
+<  返回登录
+
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，请绑定手机号，以免后续无法使用该帐号
+
+你的手机号：+ 
+为了安全，我们会给你发送短信验证码
+
+
+
+输入要解绑的完整手机号，用于验证您的身份
+
+
+
+
+
+
+
+
+
+
+
+下一步
+
+
+
+<  返回登录
+跳过  >
+
+
+
+
+
+
+获取验证码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+获取验证码
+
+
+
+
+
+取一个昵称，让大家记住你
+
+
+
+
+
+
+完成注册，开启云音乐
+
+
+
+
+
+
+取一个昵称，让大家记住你
+
+
+
+
+
+完成注册，开启云音乐
+
+
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，设置登录密码，以后可以使用手机号登录
+你的手机号：+ 
+设置密码后，可以直接用该手机号+密码登录
+
+
+
+
+
+密码不能包含空格
+包含字母、数字、符号中至少两种
+密码长度为8-20位
+
+
+
+
+
+
+跳过  >
+
+
+
+
+
+
+
+
+
+如果你不是机器人输入验证码一定没问题！
+
+
+帐号或密码错误
+
+确 定
+取消
+
+
+
+
+
++86
+
+
+
+
+
+
+
+
+{list countries as x}
+
+${x.zh}
++${x.code}
+
+{/list}
+
+
+
+
+
+由于你在非受信任的设备上登录，需要进行短信验证()
+
+
+通过短信验证身份
+
+
+
+
+ ${name}{if type=='program'}[电台节目]{/if}
+{if mvid > 0}
+
+{/if}
+
+${artistHtml}
+
+{if source}{/if}
+
+
+
+
+播放列表(0)
+收藏全部
+清除
+
+关闭
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {if !nolyric}
+{if sgc}
+上传歌词
+{/if}
+{if lrc&&lrc.lyric&&sfy}
+翻译歌词
+{/if}
+{/if}
+{if !(lrc&&lrc.lyric)}歌曲{/if}报错
+
+{if queue&&queue.length}
+
+{list queue as x}
+
+{if current&&x.id==current.id}{/if}
+{if x.program}${x.program.name}{else}${x.name}{/if}
+
+
+删除
+下载
+分享
+{if !x.program}
+收藏
+{/if}
+
+
+
+{if x.program}
+${x.program.radio.name}
+{else}
+${x.artists|getArtistName}
+{/if}
+
+${(x.duration/1000)|dur2time}
+
+{if x.source}
+来源
+{else}
+来源
+{/if}
+
+
+{/list}
+
+{else}
+
+ 你还没有添加任何歌曲去首页发现音乐，或在我的音乐收听自己收藏的歌单。
+
+{/if}
+
+
+
+
+ {if !scrollable}
+*该歌词不支持自动滚动* 求滚动歌词
+{/if}
+{list lines as line}
+${line.lyric}
+{/list}
+
+ 
+
+
+
+
+${nickname|escape}
+
+
+我的主页
+我的消息
+我的等级
+VIP会员
+
+
+个人设置
+实名认证
+{if reward}
+赞赏管理{/if} {if topic == 6}
+音乐专栏入口
+{elseif topic == 5}
+音乐专栏入口
+{/if} {if djStatus >= 10}
+主播入口
+{/if}
+
+
+退出
+
+
+
+
+登录
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+下载
+
+
+
+ 
+{if degrade}
+
+
+
+
+
+手机号登录
+
+
+注　册
+
+
+
+
+微信登录
+QQ登录
+微博登录
+网易邮箱帐号登录
+
+
+
+
+同意
+《服务条款》
+《隐私政策》
+《儿童隐私政策》
+
+
+
+{else}
+
+
+
+
+
+手机号登录
+
+
+注　册
+
+
+
+
+微信登录
+QQ登录
+微博登录
+网易邮箱帐号登录
+
+
+
+
+同意
+《服务条款》
+《隐私政策》
+《儿童隐私政策》
+
+
+
+
+
+
+
+
+
+
+扫码登录
+
+
+二维码已失效
+点击刷新
+
+
+
+使用 网易云音乐APP 扫码登录
+
+
+
+
+
+扫描成功
+
+请在手机上确认登录
+
+选择其他登录模式
+
+
+
+{/if}
+
+
+
+
+
+
+
+忘记密码？
+
+
+
+
+短信登录
+自动登录
+
+
+
+
+
+
+获取验证码
+
+
+
+密码登录
+自动登录
+
+
+
+
+登　录
+
+
+
+<  其他登录方式
+没有帐号？免费注册  >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+自动登录
+忘记密码？
+
+
+登　录
+
+
+<  其他登录方式
+
+
+{list suggests as item}
+${item|escape}
+{/list}
+
+
+
+手机号：
+
+密码：
+
+
+
+
+
+密码不能包含空格
+包含字母、数字、符号中至少两种
+密码长度为8-20位
+
+
+下一步
+
+
+<  返回登录
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，请绑定手机号，以免后续无法使用该帐号
+
+你的手机号：+ 
+为了安全，我们会给你发送短信验证码
+
+
+
+
+验证码：
+
+
+
+
+
+
+
+
+<  返回登录
+
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，请绑定手机号，以免后续无法使用该帐号
+
+你的手机号：+ 
+为了安全，我们会给你发送短信验证码
+
+
+
+输入要解绑的完整手机号，用于验证您的身份
+
+
+
+
+
+
+
+
+
+
+
+下一步
+
+
+
+<  返回登录
+跳过  >
+
+
+
+
+
+
+获取验证码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+获取验证码
+
+
+
+
+
+取一个昵称，让大家记住你
+
+
+
+
+
+
+完成注册，开启云音乐
+
+
+
+
+
+
+取一个昵称，让大家记住你
+
+
+
+
+
+完成注册，开启云音乐
+
+
+
+
+
+
+云音乐将不再支持 腾讯微博 登录方式，设置登录密码，以后可以使用手机号登录
+你的手机号：+ 
+设置密码后，可以直接用该手机号+密码登录
+
+
+
+
+
+密码不能包含空格
+包含字母、数字、符号中至少两种
+密码长度为8-20位
+
+
+
+
+
+
+跳过  >
+
+
+
+
+
+
+
+
+
+如果你不是机器人输入验证码一定没问题！
+
+
+帐号或密码错误
+
+确 定
+取消
+
+
+
+
+
++86
+
+
+
+
+
+
+
+
+{list countries as x}
+
+${x.zh}
++${x.code}
+
+{/list}
+
+
+
+
+
+由于你在非受信任的设备上登录，需要进行短信验证()
+
+
+通过短信验证身份
+
+
+
+
+
+
+
+{list data as x}${x.t}{/list}
+
+
+歌单名：
+错误提示
+可通过“收藏”将音乐添加到新歌单中
+
+新 建
+取 消
+
+
+
+
+评论共0条评论
+
+
+
+
+
+
+
+
+
+
+
+
+◆◆
+
+
+
+
+
+
+后面还有0条评论，查看更多>
+收起
+
+
+
+
+
+
+
+评论 ()
+
+
+
+
+
+
+
+
+
+
+ {list beg..end as y}
+{var x=xlist[y]}
+{if !!x}
+
+
+
+
+
+
+
+${escape(x.user.nickname)}
+{if x.user.avatarDetail && x.user.avatarDetail.identityIconUrl}
+
+{/if}
+{if x.user.vipRights}
+{if x.user.vipRights.associator && x.user.vipRights.associator.rights && x.user.vipRights.redVipLevel}
+{if x.user.vipRights.redVipLevel == 1}
+
+{elseif x.user.vipRights.redVipLevel == 2}
+
+{elseif x.user.vipRights.redVipLevel == 3}
+
+{elseif x.user.vipRights.redVipLevel == 4}
+
+{elseif x.user.vipRights.redVipLevel == 5}
+
+{elseif x.user.vipRights.redVipLevel == 6}
+
+{elseif x.user.vipRights.redVipLevel == 7}
+
+{/if}
+{elseif x.user.vipRights.musicPackage && x.user.vipRights.musicPackage.rights}
+
+{elseif x.user.vipRights.redVipAnnualCount >= 1}
+
+{elseif x.user.vipRights.associator && x.user.vipRights.associator.rights}
+
+{/if}
+{/if}
+{if !!x.beRepliedUser}
+ 回复 ${escape(x.beRepliedUser.nickname)}
+${getAuthIcon(x.beRepliedUser)}
+{if x.beRepliedUser.vipRights}
+{if x.beRepliedUser.vipRights.associator && x.beRepliedUser.vipRights.associator.rights}
+{if x.beRepliedUser.vipRights.redVipAnnualCount >= 1}
+
+{else}
+
+{/if}
+{elseif x.beRepliedUser.vipRights.musicPackage && x.beRepliedUser.vipRights.musicPackage.rights}
+
+{/if}
+{/if}
+{/if}
+：${getRichText(escape(x.content),'s-fc7')}
+{if !!x.expressionUrl}
+
+{/if}
+
+
+{if x.beReplied&&x.beReplied.length}
+{var replied = x.beReplied[0]}
+
+◆◆
+{if (replied && replied.status>=0) && (replied.content || replied.expressionUrl)}
+${replied.user.nickname}${getAuthIcon(replied.user)}
+{if replied.user.vipRights}
+{if replied.user.vipRights.associator && replied.user.vipRights.associator.rights}
+{if replied.user.vipRights.redVipAnnualCount >= 1}
+
+{else}
+
+{/if}
+{elseif replied.user.vipRights.musicPackage && replied.user.vipRights.musicPackage.rights}
+
+{/if}
+{/if}
+：${getRichText(escape(replied.content),'s-fc7')}
+{if !!replied.expressionUrl}
+
+{/if}
+{else}
+该评论已删除
+{/if}
+
+{/if}
+
+${timeformat(x.time)}
+{if x.topCommentId}音乐人置顶{/if}
+{if canTop()&&GUser&&GUser.userId&&(GUser.userId==x.user.userId)}
+{if x.topCommentId}解除置顶{else}置顶评论{/if}|
+{/if}
+{if GUser&&GUser.userId&&(GUser.userId==x.user.userId||GUser.userId==resUserId)}
+删除|
+{else}
+删除|
+{/if}
+{if GAllowRejectComment}
+{if hot||!x.isRemoveHotComment}
+移除精彩评论|
+{else}
+已移除精彩评论|
+{/if}
+{/if}
+{if !x.topCommentId}{if x.likedCount} (${getPlayCount(x.likedCount)}){/if}
+|{/if}
+回复
+
+
+
+{/if}
+{/list}
+
+ {list beg..end as y}
+{var x=xlist[y]}
+
+
+
+
+
+
+${escape(x.user.nickname)}
+{if x.user.avatarDetail && x.user.avatarDetail.identityIconUrl}
+
+{/if}
+{if x.user.vipRights}
+{if x.user.vipRights.associator && x.user.vipRights.associator.rights}
+{if x.user.vipRights.redVipLevel == 1}
+
+{elseif x.user.vipRights.redVipLevel == 2}
+
+{elseif x.user.vipRights.redVipLevel == 3}
+
+{elseif x.user.vipRights.redVipLevel == 4}
+
+{elseif x.user.vipRights.redVipLevel == 5}
+
+{elseif x.user.vipRights.redVipLevel == 6}
+
+{elseif x.user.vipRights.redVipLevel == 7}
+
+{/if}
+{elseif x.user.vipRights.musicPackage && x.user.vipRights.musicPackage.rights}
+
+{/if}
+{/if}
+{if !!x.beRepliedUser}
+ 回复 ${escape(x.beRepliedUser.nickname)}
+${getAuthIcon(x.beRepliedUser)}
+{if x.beRepliedUser.vipRights}
+{if x.beRepliedUser.vipRights.associator && x.beRepliedUser.vipRights.associator.rights}
+{if x.beRepliedUser.vipRights.redVipAnnualCount >= 1}
+
+{else}
+
+{/if}
+{elseif x.beRepliedUser.vipRights.musicPackage && x.beRepliedUser.vipRights.musicPackage.rights}
+
+{/if}
+{/if}
+{/if}
+：${getRichText(escape(x.content),'s-fc7')}
+{if !!x.expressionUrl}
+
+{/if}
+
+{if x.beReplied&&x.beReplied.length}
+{var replied = x.beReplied[0]}
+
+◆◆
+{if replied&&replied.content}
+${replied.user.nickname}${getAuthIcon(replied.user)}
+{if replied.user.vipRights}
+{if replied.user.vipRights.associator && replied.user.vipRights.associator.rights}
+{if replied.user.vipRights.redVipAnnualCount >= 1}
+
+{else}
+
+{/if}
+{elseif replied.user.vipRights.musicPackage && replied.user.vipRights.musicPackage.rights}
+
+{/if}
+{/if}
+：${getRichText(escape(replied.content),'s-fc7')}
+{else}
+该评论已删除
+{/if}
+
+{/if}
+
+${timeformat(x.time)}
+{if GUser&&GUser.userId&&(GUser.userId==x.user.userId||GUser.userId==resUserId)}
+
+删除|
+
+{else}
+删除|
+{/if}
+{if x.likedCount} (${getPlayCount(x.likedCount)}){/if}
+|
+回复
+
+
+
+{/list}
+
+ 
+
+</textarea>
+
+
+
+评论
+110/120
+
+◆◆
+
+
+ 
+
+◆◆
+
+
+</textarea>
+
+
+
+回复
+110/120
+
+
+
+
+
+ 
+
+</textarea>
+
+
+
+回复
+110/120
+
+
+
+ 
+
+</textarea>
+
+
+
+发送110/120
+
+
+
+ 
+
+</textarea>
+
+
+
+评论
+110/120
+
+
+
+ 
+
+</textarea>
+
+
+
+发送
+110/120
+
+
+
+
+新歌单
+
+ 加载中...
+
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+
+
+
+
+{if x.highQuality}{/if}
+
+
+${escape(cutStr(x.name,40))}
+${x.trackCount}首
+{if x.trackCount+size>10000}歌单已满{/if}
+
+
+{/list}
+
+
+
+
+
+说点什么
+</textarea>
+
+
+
+
+
+
+140
+
+
+转发
+取消
+
+
+
+
+
+
+  歌曲同步完成
+
+查看我的音乐
+
+
+
+ 
+{if suggests.length == 0}
+轻敲空格完成输入
+{else}
+选择最近@的人或直接输入
+{/if}
+
+{list suggests as suggest}
+${suggest.nickname}
+{/list}
+
+
+
+ 
+
+
+{if receiver}
+${receiver.nickname}×
+{/if}
+
+
+选择或输入好友昵称
+
+
+
+
+{list users as user}
+${user.nickname}
+{/list}
+
+
+
+
+ {list users as user}
+${user.nickname}
+{/list}
+
+
+
+
+分享给大家
+私信分享
+
+最多选择10位好友
+
+
+
+</textarea>
+
+
+
+
+
+
+
+
+140/140
+
+
+
+
+分享
+取消
+
+
+
+同时分享到：
+
+
+
+
+
+
+
+
+
+
+
+{macro listArtists(artists)}
+{list artists as art}
+${art.name|mark} 
+{/list}
+{/macro}
+
+搜“${keyword|cutStr}” 相关用户 >
+
+{list result.order as index}
+{var lst=result[index]}
+{if !!lst&&!!lst.length}
+
+{if index=="songs"}
+单曲
+
+{list lst as song}
+${song.name|mark}-${listArtists(song.artists)}
+{/list}
+
+{elseif index=="artists"}
+歌手
+
+{list lst as artist}
+${artist.name|mark}
+{/list}
+
+{elseif index=="albums"}
+专辑
+
+{list lst as album}
+${album.name|mark}{if album.artist}-${album.artist.name|mark}{/if}
+{/list}
+
+{elseif index=="playlists"}
+歌单
+
+{list lst as playlist}
+${playlist.name|mark}
+{/list}
+
+{elseif index=="mvs"}
+视频
+
+{list lst as mv}
+MV:${mv.name|mark}{if mv.artistName}-${mv.artistName|mark}{/if}
+{/list}
+
+{/if}
+
+{/if}
+{/list}
+
+
+
+${info|escape}
+{if canChange}{/if}
+
+
+
+
+${title}
+
+
+
+ 
+
+
+
+
+ 
+{if !fail}
+
+{else}
+${fail}
+{/if}
+
+
+
+{if !fail}
+
+{else}
+${fail}
+{/if}
+
+
+
+
+   
+
+ 
+
+知道了
+
+
+
+
+
+
+
+
+上传节目
+
+
+
+
+
+
+删除
+取消
+
+
+
+
+
+
+
+服务条款和隐私政策更新
+
+
+服务条款
+
+
+同意
+
+
+
+
+{list buttons as item}
+${item.text}
+{/list}
+
+
+
+
+
+微信
+
+
+
+
+易信
+
+
+
+
+QQ空间
+
+
+
+LOFTER
+
+
+
+
+
+message
+
+知道了
+
+
+
+
+
+
+
+新浪微博
+
+
+
+腾讯微博
+
+
+
+豆瓣
+
+
+
+
+
+
+
+
+</textarea>
+
+
+
+
+
+140
+
+
+分享
+取消
+
+
+
+
+
+
+
+
+${tip}
+
+
+
+${oktext}
+${cctext}
+
+
+
+
+
+${tip}
+
+
+${oktext}
+{if showSongText}${songTxt}{/if}
+
+
+
+
+
+${tip}
+
+
+{if typeof(oktext) != 'undefined'}${oktext}{/if}
+{if typeof(cctext) != 'undefined'}${cctext}{/if}
+
+
+
+
+${tip}
+
+
+{if typeof(oktext) != 'undefined'}${oktext}{/if}
+{if typeof(cctext) != 'undefined'}${cctext}{/if}
+
+
+该资源为公益歌曲
+捐赠任意金额（2~4999元）即可无限畅听下载
+
+ 
+
+
+
+新浪微博
+
+
+
+微信
+
+
+
+易信好友
+
+
+
+QQ空间
+
+
+
+LOFTER
+
+
+
+豆瓣
+
+
+
+
+
+
+悬赏1积分让大家来帮你补歌词，是否继续？
+若30天内歌词未补充，积分将退还给您
+
+继续求
+取消
+
+
+
+
+
+
+
+原手机号已停用
+(使用其他方式验证)
+
+
+
+原手机号仍能使用
+(使用手机验证码验证)
+
+
+
+
+{if hasWx}
+
+
+点击使用微信验证
+
+{/if}
+{if hasQQ}
+
+
+点击使用QQ验证
+
+{/if}
+
+
+
+请填写以下安全问题的答案
+
+问题：
+
+
+回答：
+
+
+帐号或密码错误
+
+上一步
+下一步
+
+
+
+
+－请选择－
+
+
+
+
+
+
+
+
+
+deepin15（64位）
+ubuntu18.04（64位）
+
+
+
+
+
+
+
+
+您的系统为Windows 10，推荐下载UWP版
+
+下载UWP版本
+继续下载PC版本
+
+
+
+
+{list options as o}
+${o|filter}
+{/list}
+
+使用云音乐客户端
+即可无限下载高品质音乐
+
+
+Mac版V1.9.1
+PC版V1.9.1
+已安装PC版
+
+
+
+扫描下载手机版
+
+
+
+
+该资源为付费内容，扫描下方二维码，使用最新的安卓或iPhone版本购买后即可畅享
+
+
+
+
+
+{var title=""}
+{if artists && artists.length}
+{list artists as x}
+{if x}
+{var title = title + x.name}
+{if x_index < x_length - 1}
+{var title = title + " / "}
+{/if}
+{/if}
+{/list}
+{/if}
+${escape(title)}
+
+{if artists && artists.length}
+
+{list artists as x}
+{if !!x}
+{if !!x.id}
+${mark(escape(x.name))}
+{else}
+${mark(escape(x.name))}
+{/if}
+{if x_index < x_length - 1} / {/if}
+{/if}
+{/list}
+
+{/if}
+
+${comJST('com-mv-artists', artists, clazz, mark, boxClazz)}
+
+{if x.userType==4}${before}${after}{elseif x.authStatus==1}${before}${after}{elseif (x.expertTags && x.expertTags.length>0) || !isEmptyObject(x.experts)}${before}${after}{/if}
+
+
+
+
+1/2
+
+
+
+{list plist as item}
+
+{/list}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+
+
+ 
+${y+1}
+{if type=='rank'}
+
+{if x.lastRank>=0}
+{if y-x.lastRank>0}
+${y-x.lastRank}
+{elseif y-x.lastRank==0}
+0
+{else}
+${x.lastRank-y}
+{/if}
+{else}
+
+{/if}
+
+{/if}
+
+
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+
+${dur2time(x.duration/1000)}{if x.ftype==2}{/if}
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+${getArtistName(x.artists, '', '', false, false, true)}
+
+
+{if type=='dayRcmd'}
+
+
+{if x.album}${x.album.name}{/if}
+不感兴趣
+
+
+{else}
+
+
+{if x.album}
+${soil(x.album.name)}
+{/if}
+
+
+{/if}
+
+{/list}
+
+
+
+
+
+
+ 
+歌曲标题
+时长
+歌手
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+
+
+ 
+${y+1}
+{if type=='rank'}
+
+{if x.lastRank>=0}
+{if y-x.lastRank>0}
+${y-x.lastRank}
+{elseif y-x.lastRank==0}
+0
+{else}
+${x.lastRank-y}
+{/if}
+{else}
+
+{/if}
+
+{/if}
+
+
+{if x.fee == 1}
+
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+{else}
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+{/if}
+
+${dur2time(x.duration/1000)}{if x.ftype==2}{/if}
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+${getArtistName(x.artists, '', '/', false, true, true)}
+
+
+
+{/list}
+
+
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+
+
+ 
+${y+1}
+
+
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+
+${dur2time(x.duration/1000)}{if x.ftype==2}{/if}
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+{if x.album}
+{var transName = x.album.tns && x.album.tns.length > 0 ? x.album.tns[0] : ''}
+${soil(x.album.name)}
+{if transName}
+ - (${transName|escape})
+{/if}
+{/if}
+
+
+
+{/list}
+
+
+
+
+
+
+
+标题
+时长
+歌手
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+{if y<3}
+
+
+${y+1}
+
+{if x.lastRank>=0}
+{if y-x.lastRank>0}
+${y-x.lastRank}
+{elseif y-x.lastRank==0}
+0
+{else}
+${x.lastRank-y}
+{/if}
+{else}
+
+{/if}
+
+
+
+
+
+
+{if x.album}{/if}
+ 
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+{else}
+
+
+${y+1}
+
+{if x.lastRank>=0}
+{if y-x.lastRank>0}
+${y-x.lastRank}
+{elseif y-x.lastRank==0}
+0
+{else}
+${x.lastRank-y}
+{/if}
+{else}
+
+{/if}
+
+
+
+
+
+
+ 
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+{/if}
+
+${dur2time(x.duration/1000)}{if x.ftype==2}{/if}
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+${getArtistName(x.artists, '', '', false, false, true)}
+
+
+
+{/list}
+
+
+
+
+
+{list beg..end as y}
+{var x=xlist[y]}
+
+
+
+ 
+${y+1}
+
+
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+
+${dur2time(x.duration/1000)}{if x.ftype==2}{/if}
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+${getArtistName(x.artists, '', '', false, false, true)}
+
+
+
+
+{if x.album}
+${soil(x.album.name)}
+{/if}
+
+
+
+{/list}
+
+
+
+ 
+{list beg..end as y}
+{var x=xlist[y]}
+{if extData&&extData.limit&&y>=extData.limit}
+{break}
+{/if}
+{var from=getFrom()}
+
+
+ 
+${y+1}.
+
+
+
+
+${x.name}
+ -
+${getArtistName(x.artists, 's-fc8')}
+
+
+
+
+
+
+
+分享
+下载
+
+
+
+
+{if extData.showCount&&x.playCount}${x.playCount}次{/if}
+
+
+{/list}
+
+{if extData&&extData.limit&&xlist.length>extData.limit}
+
+查看更多>
+
+{/if}
+
+ {list beg..end as y}
+{var x=xlist[y]}
+
+
+
+ 
+${y+1}
+{if type=='rank'}
+
+{if x.lastRank>=0}
+{if y-x.lastRank>0}
+${y-x.lastRank}
+{elseif y-x.lastRank==0}
+0
+{else}
+${x.lastRank-y}
+{/if}
+{else}
+
+{/if}
+
+{/if}
+
+
+
+
+
+
+
+{var alia=songAlia(x)}
+${soil(x.name)}{if alia} - (${soil(alia)}){/if}
+{if x.mvid>0}
+MV
+{/if}
+
+
+
+
+
+
+分享
+
+{if canDel}
+删除
+{/if}
+
+
+
+
+
+${getArtistName(x.artists, '', '', false, false, true)}
+
+
+
+
+{if x.album}
+${soil(x.album.name)}
+{/if}
+
+
+${formatTime(x.paidTime)}
+
+{/list}
+
+
+
+最多选择10位好友
+
+发 给：
+
+
+
+
+内 容：
+
+
+
+
+
+
+
+
+
+${title}
+${sub}
+
+
+{if ok}
+${ok}
+{/if}
+{if cc}
+${cc}
+{/if}
+
+
+
+
+
+
+
+

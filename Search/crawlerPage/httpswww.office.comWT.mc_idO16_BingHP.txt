@@ -1,0 +1,845 @@
+
+
+
+
+Office 365 Login | Microsoft Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Microsoft
+
+
+
+Office
+
+
+
+
+Office
+
+
+
+
+                            Office
+                        
+
+
+
+
+ Home 
+
+
+
+Products 
+
+
+For home
+For home
+
+
+Plans and pricing
+
+
+For families
+
+
+For individuals
+
+
+For students
+
+
+See all home
+
+
+
+
+For business
+For business
+
+
+Plans and pricing
+
+
+Small business
+
+
+Schools
+
+
+
+
+For enterprise
+For enterprise
+
+
+Plans and pricing
+
+
+Enterprise
+
+
+Frontline workers
+
+
+
+
+Apps and services
+Apps and services
+
+
+Excel
+
+
+Microsoft Family Safety
+
+
+Microsoft Teams
+
+
+OneDrive
+
+
+Outlook
+
+
+PowerPoint
+
+
+SharePoint
+
+
+Word
+
+
+See all apps and services
+
+
+
+
+More
+More
+
+
+Microsoft Office
+
+
+Office 365
+
+
+Windows
+
+
+Windows 365
+
+
+Enterprise Mobility + Security
+
+
+
+
+
+ 
+
+Resources  
+
+
+Customer stories
+
+
+Frequently asked questions
+
+
+Install Office
+
+
+IT Pro resources
+
+
+Office blog
+
+
+Security & compliance
+
+
+System requirements
+
+
+
+ 
+Templates
+
+
+Support
+
+
+My account
+
+
+
+More
+
+
+
+
+
+Buy now
+
+
+
+
+ 
+
+
+
+ All Microsoft
+
+
+
+
+Microsoft 365
+
+
+Office
+
+
+Windows
+
+
+Surface
+
+
+Xbox
+
+
+Deals
+
+
+Support
+
+
+
+
+Software
+Software
+
+
+Windows Apps
+
+
+OneDrive
+
+
+Outlook
+
+
+Skype
+
+
+OneNote
+
+
+Microsoft Teams
+
+
+Microsoft Edge
+
+
+
+
+PCs & Devices  
+PCs & Devices  
+
+
+Computers
+
+
+Shop Xbox
+
+
+Accessories
+
+
+VR & mixed reality
+
+
+Phones
+
+
+
+
+Entertainment
+Entertainment
+
+
+Xbox Game Pass Ultimate
+
+
+Xbox Live Gold
+
+
+Xbox games
+
+
+PC games
+
+
+Windows digital games
+
+
+Movies & TV
+
+
+
+
+Business
+Business
+
+
+Microsoft Cloud
+
+
+Microsoft Azure
+
+
+Microsoft Dynamics 365
+
+
+Microsoft 365
+
+
+Windows 365
+
+
+Microsoft Industry
+
+
+Microsoft Advertising
+
+
+Shop Business
+
+
+
+
+Developer & IT  
+Developer & IT  
+
+
+.NET
+
+
+Visual Studio
+
+
+Windows Server
+
+
+Windows Dev Center
+
+
+Docs
+
+
+Power Platform
+
+
+Power Apps
+
+
+HoloLens 2
+
+
+
+
+Other
+Other
+
+
+Microsoft Rewards 
+
+
+Free downloads & security
+
+
+Education
+
+
+Virtual workshops and training
+
+
+Gift cards
+
+
+Holiday gifts
+
+
+Licensing
+
+
+Microsoft Experience Center
+
+
+
+
+View Sitemap
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+        Remote Learning in education. Learn more >
+    
+
+
+
+
+
+
+
+{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2021-10-05 22:53:24Z","buildId":"93bdbb3c-fc1d-1585-da21-01d0e872657e","corpNet":false,"correlationId":"ce3b5217-ed8a-461f-9c98-79570a2c691e","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"enableallserp,visiodocaspx,wachostprodhwa,enableenterpresscf,shelldtt,userconsent,P-R-90619-10-11,P-D-85925-1-5,P-D-68024-1-81","geoName":"eas","requestOrigin":"Direct","sessionId":"8b4bb4b0-e748-421c-9da6-33d8a9d0710f","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true,"oTelEnabled":false,"oTelAriaTenant":"eba120086311400a9b62c4718c0934d3-7ec73bd2-d8e8-450d-84d0-7f0a2ade31ce-7166","oTelAppName":"OfficeTaosHub","oTelAppPlatform":"Web","oTelNameSpace":"Office.Taos.Hub","oTelPageViewEnabled":false,"oTelClickEnabled":false}
+
+    {"pathAndQuery":"/?WT.mc_id=O16_BingHP","loginUrl":"https://www.office.com/login?es=Click&ru=%2F%3FWT.mc_id%3DO16_BingHP","userConsentStatus":{"IsCookieConsentRequired":false,"EssentialCookiesConsented":true,"AdvertisingCookiesConsented":false,"AnalyticsCookiesConsented":false,"SocialMediaCookiesConsented":false},"accountRemovedString":"Account removed","accountRemoveFailedString":"Failed to remove the account. Please try again."}
+
+res-1.cdn.office.net/officehub
+
+        {"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
+    
+True
+
+
+
+
+
+Welcome to Office
+Your place to create, communicate, collaborate, and get great work done.
+
+
+                            Sign in
+                        
+
+                            Get Office
+                        
+
+Sign up for the free version of Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in to use your favorite productivity apps from any device
+
+
+
+
+Word
+
+
+
+Excel
+
+
+
+PowerPoint
+
+
+
+OneNote
+
+
+
+OneDrive
+
+
+
+Outlook
+
+
+
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get the premium Office apps with Microsoft 365
+
+
+
+For home
+
+
+
+For business
+
+
+
+For enterprise
+
+
+
+For education
+
+
+
+
+
+
+
+Follow Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's new
+
+
+Surface Pro 8
+
+
+Surface Laptop Studio
+
+
+Surface Pro X
+
+
+Surface Go 3
+
+
+Surface Duo 2
+
+
+Surface Pro 7+
+
+
+Windows 10 apps
+
+
+HoloLens 2
+
+
+
+
+Microsoft Store
+
+
+Account profile
+
+
+Download Center
+
+
+Microsoft Store support
+
+
+Returns
+
+
+Order tracking
+
+
+Virtual workshops and training
+
+
+Microsoft Store Promise
+
+
+Flexible Payments
+
+
+
+
+Education
+
+
+Microsoft in education
+
+
+Office for students
+
+
+Office 365 for schools
+
+
+Deals for students & parents
+
+
+Microsoft Azure in education
+
+
+
+
+
+
+Enterprise
+
+
+Azure
+
+
+AppSource 
+
+
+Automotive
+
+
+Government
+
+
+Healthcare
+
+
+Manufacturing
+
+
+Financial services
+
+
+Retail
+
+
+
+
+Developer
+
+
+Microsoft Visual Studio
+
+
+Windows Dev Center
+
+
+Developer Center
+
+
+Microsoft developer program
+
+
+Channel 9
+
+
+Microsoft 365 Dev Center
+
+
+Microsoft 365 Developer Program
+
+
+Microsoft Garage
+
+
+
+
+Company
+
+
+Careers
+
+
+About Microsoft
+
+
+Company news
+
+
+Privacy at Microsoft
+
+
+Investors
+
+
+Diversity and inclusion
+
+
+Accessibility
+
+
+Security
+
+
+
+
+
+
+English (United States)
+
+
+
+Sitemap
+
+
+Contact Microsoft
+
+
+Privacy 
+
+
+Manage cookies
+
+
+Terms of use
+
+
+Trademarks
+
+
+Safety & eco
+
+
+About our ads
+
+© Microsoft 2021
+
+
+
+
+
+
+
+
+
+
+
+SID:8b4bb4b0-e748-421c-9da6-33d8a9d0710f CID:ce3b5217-ed8a-461f-9c98-79570a2c691e AUTH:Unknown GEO:eas IN:_ohome_12 DEP:a1a5ef5d-95fc-47ca-ba0f-ff3668808906 FLT:enableallserp,visiodocaspx,wachostprodhwa,enableenterpresscf,shelldtt,userconsent,P-R-90619-10-11,P-D-85925-1-5,P-D-68024-1-81 FTR: R:Unknown PLT:Unknown FR:Unknown FD: Unknown D:2021-10-08 07:51:35Z
+
+
+
+
+
+
+
+
+
+
